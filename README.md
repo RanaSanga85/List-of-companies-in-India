@@ -1,4 +1,4 @@
-# InsightInquirer
+# List of companies in India
 
 AmbitionBox Companies Dataset
 
